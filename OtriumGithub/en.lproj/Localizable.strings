@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  OtriumGithub
+
+  Created by Nipun Ruwanpathirana on 2021-07-01.
+  
+*/
+
+//Titles
+"title_main" = "Profile";
+"title_pinned" = "Pinned";
+"title_top_repositories" = "Top repositories";
+"title_starred_repositories" = "Starred repositories";
+
+"title_followers" = "followers";
+"title_following" = "following";
+
+//Buttons
+"btn_view_all" = "View All";
